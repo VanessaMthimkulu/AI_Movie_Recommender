@@ -1,0 +1,5 @@
+{
+  "name": "AI Movie Recommender",
+  "description": "An AI-based movie recommendation assistant that suggests films based on user preferences gathered through a conversational chatbot interface.",
+  "requestFramePermissions": []
+}
